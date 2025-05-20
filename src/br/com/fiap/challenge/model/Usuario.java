@@ -1,3 +1,5 @@
+package br.com.fiap.challenge.model;
+
 public class Usuario {
         private String nome;
         private String email;

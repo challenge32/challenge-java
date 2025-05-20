@@ -1,3 +1,7 @@
+package br.com.fiap.challenge.view;
+
+import br.com.fiap.challenge.model.Usuario;
+
 import java.util.Scanner;
 
 public class SaudeDigitalApp {
@@ -93,7 +97,7 @@ public class SaudeDigitalApp {
     public static void mostrarContatoRapido() {
         System.out.println("\n--- Fale com Alguém ---");
         System.out.println("Telefone de suporte: 0800-000-0000");
-        System.out.println("Chatbot (Telegram): @SaudeDigitalBot");
+        System.out.println("Chatbot (Telegram): @Challenge1737bot");
     }
 
     public static void mostrarFAQ() {
@@ -118,9 +122,8 @@ public class SaudeDigitalApp {
 
     public static void mostrarIntegrantes() {
         System.out.println("\n--- Quem Somos ---");
-        System.out.println("Daniel Tamashiro");
-        System.out.println("Victória Bassan");
-        System.out.println("Pedro Henrique Costa");
+        System.out.println("Júlia Menezes Farias - RM565568 - Turma: 1TDSPV");
+        System.out.println("Pedro Henrique Costa - RM559932 - Turma: 1TDSPV");
     }
 
     public static void mostrarSolucao() {
